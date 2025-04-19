@@ -91,7 +91,7 @@ export default function AIChatbot() {
   const [messages, setMessages] = useState([
     {
       id: 1,
-      text: "Hello! I'm your AI assistant. How can I help you today?",
+      text: "Hello! I am your AI assistant. How can I help you today?",
       sender: 'ai',
     },
   ])
