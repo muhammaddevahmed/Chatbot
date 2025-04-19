@@ -1,5 +1,5 @@
 import { Box } from '@mui/material'
-import AIChatbot from './components/AIChatbot'
+import AIChatbot from './components/AIChatbots'
 import './index.css'
 
 function App() {
